@@ -1,4 +1,4 @@
-remote_theme: WhatATheme
+remote_theme: https://github.com/thedevslot/WhatATheme 
 markdown: kramdown
 
 # URL of the Site
