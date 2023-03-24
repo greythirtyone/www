@@ -1,5 +1,5 @@
-remote_theme: https://github.com/thedevslot/WhatATheme.git
-markdown: kramd
+remote_theme: WhatATheme
+markdown: kramdown
 
 # URL of the Site
 url: 'https://www.grey31.com'
