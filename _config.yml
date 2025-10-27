@@ -23,7 +23,6 @@ heroimage: https://images.pexels.com/photos/220444/pexels-photo-220444.jpeg?auto
 # If you don't want to use any icon, you can leave them blank.
 email: 
 youtube_channel_id: 
-reddit_username: brux84
 
 # Google Analytics
 google-analytics: 
@@ -32,7 +31,7 @@ google-analytics:
 disqus-shortname: 
 
 # Name of the Author
-author-name: Brux Haxan
+author-name: Brux
 # URL for the Image of the Author
 author-image: 
 # 60 Words About the Author
